@@ -1,0 +1,50 @@
+
+Inheritance
+------------
+
+Inheritance is process in which one class takes 
+on theattribute and method of another. newly formed 
+classes are called child classes, and the child classes
+are derived from parent classes.
+
+child classes inherit all of the parents attribute and methods but
+can also extend and overrites attributes and methods
+that are unique to themselves
+
+
+Polymorphism
+-------------
+
+"Many shapes"
+
+We can write the that works on super class, and it will work
+with any type of sub classes as well
+
+Givesd a way to use class exactly like its parent,
+but each child class keeps its own methods as they are.
+
+
+Encapsulation
+--------------
+
+Encapsulation is the mechanism of hiding the data implementaion.
+
+Instance variables are kept private and accsessor methods
+are made public to acheive this. with this, we
+restrict the access to public method (getter / setter).
+
+Instance methods can also kept private.
+
+
+Abstraction
+------------
+
+Abstarction can be thought as a natura extension of encapsulation.
+Applying abstraction means that each objkect should only expose
+a high-level mechanism for using it
+
+This mechanism should hide internal implementation details.
+It should only reveal operations relevent for the other objects.
+
+
+
